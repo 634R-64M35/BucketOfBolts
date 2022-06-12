@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvojtp7eXLv+4jep7sJ8pnFXpRaRbZAfq3WtvmR59JuCVfEjKnI551ByWYJJgTqE8Jga2kiWqdavQCYMHrzT3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\my games\\Terraria\\tModLoader\\ModSources\\BucketOfBolts\\BucketOfBolts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
