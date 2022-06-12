@@ -7,7 +7,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BocketOfBolts.Projectiles {
+namespace BucketOfBolts.Projectiles {
     public class DestroyerProbe3 : ModProjectile {
         public virtual Vector2 FlyingOffset => new Vector2(32f * -Main.player[Projectile.owner].direction, -96f);
         public override string Texture => "BucketOfBolts/Projectiles/DestroyerProbe";
