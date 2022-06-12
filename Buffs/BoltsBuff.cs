@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ModLoader;
-using BocketOfBolts.Projectiles;
+using BucketOfBolts.Projectiles;
 
 namespace BucketOfBolts.Buffs {
     public class BoltsBuff : ModBuff {
