@@ -17,3 +17,7 @@ V 0.1
 
 	- Added Bucket Of Bolts item, summons the three mechanical menaces of the night, in toy form!
 	- Added three small probes to follow you!
+
+V 0.2
+	- Slightly changed buff and item sprites
+	- Fixed a namespace error

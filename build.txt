@@ -1,3 +1,3 @@
 displayName = Bucket Of Bolts
 author = Draedon Gaming
-version = 0.1
+version = 0.2
